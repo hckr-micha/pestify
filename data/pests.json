@@ -1,0 +1,252 @@
+[
+  {
+    "id": "cockroach",
+    "name": "German Cockroach",
+    "localName": "Ipis",
+    "emoji": "🪳",
+    "category": "Home",
+    "severity": "high",
+    "tagline": "Most common household pest in the Philippines",
+    "description": "The German cockroach is the most prevalent cockroach species found in Philippine homes, restaurants, and food establishments. They thrive in warm, humid environments and reproduce rapidly, making infestations difficult to control without professional help.",
+    "signs": [
+      "Droppings resembling black pepper near food sources",
+      "Egg cases (oothecae) in hidden corners or under appliances",
+      "Musty odor in heavily infested areas",
+      "Live or dead cockroaches near drains and under sinks"
+    ],
+    "prevention": [
+      "Seal all food in airtight containers",
+      "Fix leaking pipes and eliminate standing water",
+      "Seal cracks and crevices in walls and cabinets",
+      "Take out garbage daily and keep bins covered"
+    ],
+    "treatment": "Gel baits placed in cracks and crevices are highly effective. Combined with boric acid dust in voids and IGR (Insect Growth Regulator) sprays, most infestations can be resolved in 2–4 weeks.",
+    "dangerLevel": "Carries bacteria like Salmonella and E. coli; triggers asthma and allergies",
+    "season": "Year-round, peaks during rainy season"
+  },
+  {
+    "id": "mosquito",
+    "name": "Aedes Mosquito",
+    "localName": "Lamok",
+    "emoji": "🦟",
+    "category": "Health",
+    "severity": "high",
+    "tagline": "Primary vector of dengue, Zika, and chikungunya",
+    "description": "Aedes aegypti is the primary mosquito species responsible for transmitting dengue fever across the Philippines. It is a daytime biter, most active during early morning and late afternoon, and breeds in clean, stagnant water.",
+    "signs": [
+      "Itchy bites appearing during daytime",
+      "Mosquito larvae visible in stagnant water containers",
+      "High-pitched buzzing near ears",
+      "Presence near flower pots, water drums, and tires"
+    ],
+    "prevention": [
+      "Eliminate standing water in containers every week (4S campaign)",
+      "Use mosquito nets and window screens",
+      "Apply EPA-approved insect repellent when outdoors",
+      "Wear long sleeves during peak biting hours"
+    ],
+    "treatment": "Fogging and larviciding for large-scale infestations. For homes, use aerosol sprays labeled for mosquitoes and install screen doors and windows. Seek a licensed pest control provider for community-level treatment.",
+    "dangerLevel": "Transmits dengue, chikungunya, Zika virus — can be fatal if untreated",
+    "season": "Peaks June–November during rainy season"
+  },
+  {
+    "id": "termite",
+    "name": "Subterranean Termite",
+    "localName": "Anay",
+    "emoji": "🐜",
+    "category": "Home",
+    "severity": "high",
+    "tagline": "Silent destroyer of wooden structures",
+    "description": "Subterranean termites are the most destructive pest in the Philippines, responsible for billions of pesos in structural damage annually. They live in underground colonies and travel through mud tubes to reach wood, often causing severe damage before detection.",
+    "signs": [
+      "Mud tubes on walls, floors, or foundations",
+      "Hollow-sounding wood when tapped",
+      "Discarded wings near windows after swarming",
+      "Bubbling or uneven paint on wooden surfaces"
+    ],
+    "prevention": [
+      "Avoid wood-to-soil contact in construction",
+      "Apply pre-construction soil treatment with termiticide",
+      "Keep firewood and lumber away from the house",
+      "Ensure proper drainage around the foundation"
+    ],
+    "treatment": "Soil treatment with liquid termiticide creates a chemical barrier. Baiting systems are effective for ongoing colony elimination. Severe infestations require professional treatment — DIY methods are rarely sufficient.",
+    "dangerLevel": "Can compromise structural integrity of buildings; very costly to repair",
+    "season": "Swarming common April–June (dry season)"
+  },
+  {
+    "id": "rat",
+    "name": "Norway Rat",
+    "localName": "Daga",
+    "emoji": "🐀",
+    "category": "Home",
+    "severity": "high",
+    "tagline": "Major carrier of leptospirosis and other diseases",
+    "description": "The Norway rat (Rattus norvegicus) and the roof rat (Rattus rattus) are the two most common rat species in Philippine urban areas. They contaminate food, damage property, and pose serious health risks through their urine and droppings.",
+    "signs": [
+      "Droppings along walls and near food sources",
+      "Gnaw marks on food packaging, wires, or wood",
+      "Burrows along walls or in garden soil",
+      "Greasy rub marks along frequently traveled paths"
+    ],
+    "prevention": [
+      "Store food in sealed metal or glass containers",
+      "Block entry points larger than 1 cm with steel wool or metal plates",
+      "Keep surroundings clean and clutter-free",
+      "Never leave pet food out overnight"
+    ],
+    "treatment": "Snap traps and rodenticide bait stations placed along known runways. For large infestations, engage a licensed pest control professional. Always use tamper-resistant bait stations where children and pets are present.",
+    "dangerLevel": "Spreads leptospirosis, rat-bite fever, hantavirus, and salmonellosis",
+    "season": "Year-round; peaks during and after flooding"
+  },
+  {
+    "id": "bedbug",
+    "name": "Common Bed Bug",
+    "localName": "Surot",
+    "emoji": "🐛",
+    "category": "Home",
+    "severity": "medium",
+    "tagline": "Notorious nighttime biter hiding in mattresses",
+    "description": "Bed bugs are small, flat, parasitic insects that feed exclusively on blood. They are most active at night and hide in mattress seams, bed frames, and furniture cracks during the day. Their resurgence is linked to increased travel.",
+    "signs": [
+      "Small, itchy red welts in a line or cluster on skin",
+      "Tiny dark or rust-colored spots on mattress seams",
+      "Sweet, musty odor in heavily infested rooms",
+      "Shed exoskeletons and egg casings in crevices"
+    ],
+    "prevention": [
+      "Inspect secondhand furniture before bringing it home",
+      "Encase mattresses in bed bug-proof covers",
+      "Reduce clutter where bed bugs can hide",
+      "Check hotel rooms thoroughly when traveling"
+    ],
+    "treatment": "Heat treatment (above 50°C) is the most effective method. Combined with residual insecticide application in cracks and crevices. Multiple treatments 2 weeks apart are usually required.",
+    "dangerLevel": "Not known to transmit disease but causes significant sleep disruption and anxiety",
+    "season": "Year-round"
+  },
+  {
+    "id": "housefly",
+    "name": "Common House Fly",
+    "localName": "Langaw",
+    "emoji": "🪰",
+    "category": "Health",
+    "severity": "medium",
+    "tagline": "Contaminates food and spreads over 100 pathogens",
+    "description": "The house fly breeds in decaying organic matter and animal waste, making it a major health hazard in Philippine markets and food areas. It regurgitates digestive fluid and defecates while feeding, contaminating food and surfaces.",
+    "signs": [
+      "Cluster of flies near garbage, food waste, or animal areas",
+      "Fly specks (small dark dots) on walls and surfaces",
+      "Maggots in decomposing waste or poorly sealed trash",
+      "Persistent buzzing sounds around food preparation areas"
+    ],
+    "prevention": [
+      "Seal all garbage in covered bins and dispose of daily",
+      "Cover all food and use screens on windows and doors",
+      "Clean up pet waste promptly",
+      "Eliminate standing water and wet organic waste"
+    ],
+    "treatment": "Fly baits, sticky traps, and UV light traps for indoor control. Residual sprays on resting surfaces. Address the breeding source first — treatment without eliminating breeding sites will fail.",
+    "dangerLevel": "Transmits cholera, typhoid, dysentery, and food poisoning bacteria",
+    "season": "Year-round; peaks in summer and after flooding"
+  },
+  {
+    "id": "rice-weevil",
+    "name": "Rice Weevil",
+    "localName": "Bukbok ng Bigas",
+    "emoji": "🐞",
+    "category": "Storage",
+    "severity": "medium",
+    "tagline": "Destroys stored rice and grain supplies",
+    "description": "The rice weevil (Sitophilus oryzae) is one of the most destructive pests of stored grain in the Philippines. Adults bore into rice kernels to lay eggs, and larvae develop inside the grain, rendering entire sacks of rice unfit for consumption.",
+    "signs": [
+      "Fine flour-like dust or powder inside rice sacks",
+      "Small holes in individual rice grains",
+      "Adult weevils (small, dark, snout-nosed beetles) in grain",
+      "Clumped or discolored rice with off smell"
+    ],
+    "prevention": [
+      "Store rice in airtight containers with bay leaves or neem leaves",
+      "Inspect newly purchased sacks before storage",
+      "Keep storage areas cool, dry, and well-ventilated",
+      "Freeze infested grain for 72 hours to kill all life stages"
+    ],
+    "treatment": "Remove and dispose of heavily infested grain. Clean storage bins thoroughly with soap and water. Apply food-grade diatomaceous earth to storage bins before refilling. For commercial storage, consult a pest control professional for fumigation.",
+    "dangerLevel": "Economic pest — destroys food supply rather than posing direct health risk",
+    "season": "Year-round; accelerates in warm, humid conditions"
+  },
+  {
+    "id": "aphid",
+    "name": "Green Peach Aphid",
+    "localName": "Dapulak",
+    "emoji": "🌿",
+    "category": "Garden",
+    "severity": "medium",
+    "tagline": "Sap-sucking pest of vegetables and ornamentals",
+    "description": "Aphids are tiny, soft-bodied insects that cluster on the undersides of leaves and young shoots, sucking plant sap. They excrete honeydew, promoting fungal growth and sooty mold. They also transmit plant viruses.",
+    "signs": [
+      "Clusters of small green, yellow, or black insects on new growth",
+      "Curled, yellowing, or distorted leaves",
+      "Sticky honeydew coating on leaves and surfaces below plant",
+      "Black sooty mold growing on honeydew deposits"
+    ],
+    "prevention": [
+      "Encourage natural predators like ladybugs and lacewings",
+      "Inspect new plants before introducing to the garden",
+      "Avoid excessive nitrogen fertilizer which promotes soft growth aphids prefer",
+      "Use reflective mulch to deter winged aphids"
+    ],
+    "treatment": "Strong spray of water dislodges colonies. Neem oil or insecticidal soap are effective organic options. For severe infestations, use registered aphicide. Always spray the undersides of leaves.",
+    "dangerLevel": "Causes plant yield loss and spreads plant viruses",
+    "season": "Cool, dry months (November–February); may occur year-round"
+  },
+  {
+    "id": "mole-cricket",
+    "name": "Mole Cricket",
+    "localName": "Kamaro",
+    "emoji": "🦗",
+    "category": "Farm",
+    "severity": "medium",
+    "tagline": "Underground pest that destroys roots and seedlings",
+    "description": "Mole crickets are burrowing insects that damage rice paddies, vegetable farms, and lawns by tunneling through soil and severing plant roots. They are considered a delicacy (kamaro) in Pampanga but are serious agricultural pests elsewhere.",
+    "signs": [
+      "Raised tunnels visible in soil surface after rain",
+      "Wilting or dying seedlings with severed roots",
+      "Spongy, soft soil in formerly firm lawn or field areas",
+      "Chirping sounds coming from soil at night"
+    ],
+    "prevention": [
+      "Flood fields before planting to drive out mole crickets",
+      "Encourage natural predators such as birds and ground beetles",
+      "Use resistant crop varieties where available",
+      "Avoid over-irrigation which creates favorable burrowing conditions"
+    ],
+    "treatment": "Bait applications of chlorpyrifos or carbaryl-based granules in early evening when mole crickets surface. Biological control using entomopathogenic nematodes (Steinernema spp.) is effective and environmentally safe.",
+    "dangerLevel": "Causes significant seedling and turf loss; economic impact on rice farms",
+    "season": "Most destructive during planting season (May–July)"
+  },
+  {
+    "id": "brown-planthopper",
+    "name": "Brown Planthopper",
+    "localName": "Kayumanggi na Plantsa",
+    "emoji": "🌾",
+    "category": "Farm",
+    "severity": "high",
+    "tagline": "Number one rice pest causing hopperburn",
+    "description": "The brown planthopper (Nilaparvata lugens) is the most devastating rice pest in Asia, causing hopperburn — a condition where entire rice fields turn brown and die rapidly. It feeds on rice phloem and transmits grassy stunt and ragged stunt viruses.",
+    "signs": [
+      "Circular patches of brown, dead rice plants (hopperburn)",
+      "Honeydew deposits and sooty mold at the base of plants",
+      "Dense colonies of small brown insects at plant base",
+      "Stunted plant growth and reduced tillering"
+    ],
+    "prevention": [
+      "Plant resistant rice varieties (e.g., IR64, NSIC Rc222)",
+      "Avoid excessive nitrogen application",
+      "Maintain proper water management in paddies",
+      "Preserve natural enemies by minimizing broad-spectrum pesticide use"
+    ],
+    "treatment": "Apply registered insecticides (buprofezin, dinotefuran) at economic threshold of 1 egg mass per hill or 2 adults per hill. Use alternate-wetting-and-drying irrigation. Consult your local DA/PhilRice extension officer for variety recommendations.",
+    "dangerLevel": "Can destroy entire rice crop within 1–2 weeks if untreated",
+    "season": "Peaks during wet season rice cropping (July–October)"
+  }
+]
